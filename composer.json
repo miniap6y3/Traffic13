@@ -1,0 +1,19 @@
+{
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "miniap6y3",
+      "email": "miniap6y3@gmail.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "app\\": "controllers",
+      "models\\": "models"
+    }
+  }
+}
